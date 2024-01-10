@@ -1,2 +1,2 @@
 # Diagrams
-public repo for diagrams used with VMware by Broadcom Customers
+public repo for diagram templates used with VMware by Broadcom Customers
